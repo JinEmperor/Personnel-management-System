@@ -1,0 +1,71 @@
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.Form1.resources
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.Properties.Resources.resources
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Desktop\insa\insa\bin\Debug\insa.exe.config
+C:\Users\MTPC4-06\Desktop\insa\insa\bin\Debug\insa.exe
+C:\Users\MTPC4-06\Desktop\insa\insa\bin\Debug\insa.pdb
+C:\Users\MTPC4-06\Desktop\insa\insa\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.csproj.CopyComplete
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.exe
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.pdb
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.Form2.resources
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.Form4.resources
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.Main.resources
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.Form5.resources
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.Form6.resources
+C:\Users\MTPC4-06\Desktop\insa\insa\obj\Debug\insa.Form7.resources
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\bin\Debug\insa.exe.config
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\bin\Debug\insa.exe
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\bin\Debug\insa.pdb
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.csprojAssemblyReference.cache
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.Form1.resources
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.Form2.resources
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.Form4.resources
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.Form5.resources
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.Form6.resources
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.Form7.resources
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.Main.resources
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.Properties.Resources.resources
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.csproj.GenerateResource.cache
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.csproj.CoreCompileInputs.cache
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.csproj.CopyComplete
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.exe
+C:\Users\Mac_06\Desktop\insa (4)\insa\insa\obj\Debug\insa.pdb
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\insa.exe.config
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\insa.exe
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\insa.pdb
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.csprojAssemblyReference.cache
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.Form1.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.Form5.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.Form6.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.Form7.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.Main.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.Properties.Resources.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.csproj.GenerateResource.cache
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.csproj.CopyComplete
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.exe
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.pdb
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.Form8.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.Form10.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\LiveCharts.dll
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\LiveCharts.pdb
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\LiveCharts.xml
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.code.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.certificate.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.english.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.jaejic.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.table.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.login.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.onlychart.resources
+C:\Users\Mac_1\Desktop\insa (4)\insa (4)\insa\insa\obj\Debug\insa.buseo.resources
